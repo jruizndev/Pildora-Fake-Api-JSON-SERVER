@@ -46,31 +46,22 @@ Obtener todas las batallas ganadas por Brock (winnerId=3):
 
 ## Ejercicio práctico 
 - Creación de un array (clothing) con la siguiente estructura: 
+
+```bash
 {
-
     "clothing": [
-
         {
-
             "id": "",
-
             "item": "",
-
             "brand": "",
-
             "size": "",
-
             "price": ,
-
             "inStock": true or false,
-
         },
-
 ...
-
 ]
-
 }
+```
 
 - Realizar un filtrado por marca (brand)
 - Realizar un filtrado por disponibilidad (inStock)
