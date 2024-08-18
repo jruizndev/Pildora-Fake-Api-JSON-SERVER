@@ -44,6 +44,23 @@ Obtener todos los Pokémon ordenados por nivel ascendente:
 Obtener todas las batallas ganadas por Brock (winnerId=3):  
 /battles?winnerId=3
 
-- Ejercicio práctico creando un array (clothing) con objetos prenda que contengan: "id", "item", "brand", "size", "price", "inStock" (true or false).
-Posteriormente realizar filtrados por:
-Marca (brand), disponibilidad (inStock), precio ascendente (price), tamaño (size)
+## Ejercicio práctico 
+- Creación de un array (clothing) con la siguiente estructura: 
+{
+    "clothing": [
+        {
+            "id": "",
+            "item": "",
+            "brand": "",
+            "size": "",
+            "price": ,
+            "inStock": true or false,
+        },
+...
+]
+}
+
+- Realizar un filtrado por marca (brand)
+- Realizar un filtrado por disponibilidad (inStock)
+- Realizar un filtrado por precio ascendente (price)
+- Realizar un filtrado por tamaño (size)
