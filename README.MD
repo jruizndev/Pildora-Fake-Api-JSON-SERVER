@@ -62,6 +62,11 @@ Obtener todas las batallas ganadas por Brock (winnerId=3):
 ]
 }
 ```
+- Iniciar servidor
+
+```bash
+json-server --watch clothing.json
+```
 
 - Realizar un filtrado por marca (brand)
 - Realizar un filtrado por disponibilidad (inStock)
