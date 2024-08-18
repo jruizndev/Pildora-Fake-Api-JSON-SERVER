@@ -1,0 +1,123 @@
+{
+    "pokemons": [
+        {
+            "id": 1,
+            "name": "Pikachu",
+            "type": "Electric",
+            "level": 25,
+            "trainerId": 1
+        },
+        {
+            "id": 2,
+            "name": "Charmander",
+            "type": "Fire",
+            "level": 16,
+            "trainerId": 2
+        },
+        {
+            "id": 3,
+            "name": "Squirtle",
+            "type": "Water",
+            "level": 18,
+            "trainerId": 2
+        },
+        {
+            "id": 4,
+            "name": "Bulbasaur",
+            "type": "Grass/Poison",
+            "level": 20,
+            "trainerId": 3
+        },
+        {
+            "id": 5,
+            "name": "Jigglypuff",
+            "type": "Fairy",
+            "level": 12,
+            "trainerId": 1
+        },
+        {
+            "id": 6,
+            "name": "Gengar",
+            "type": "Ghost/Poison",
+            "level": 30,
+            "trainerId": 3
+        },
+        {
+            "id": 7,
+            "name": "Onix",
+            "type": "Rock/Ground",
+            "level": 22,
+            "trainerId": 3
+        },
+        {
+            "id": 8,
+            "name": "Psyduck",
+            "type": "Water",
+            "level": 14,
+            "trainerId": 2
+        },
+        {
+            "id": 9,
+            "name": "Eevee",
+            "type": "Normal",
+            "level": 20,
+            "trainerId": 1
+        },
+        {
+            "id": 10,
+            "name": "Magikarp",
+            "type": "Water",
+            "level": 10,
+            "trainerId": 2
+        }
+    ],
+    "trainers": [
+        {
+            "id": 1,
+            "name": "Ash Ketchum",
+            "age": 10
+        },
+        {
+            "id": 2,
+            "name": "Misty",
+            "age": 12
+        },
+        {
+            "id": 3,
+            "name": "Brock",
+            "age": 15
+        }
+    ],
+    "battles": [
+        {
+            "id": 1,
+            "trainer1Id": 1,
+            "trainer2Id": 2,
+            "winnerId": 1
+        },
+        {
+            "id": 2,
+            "trainer1Id": 2,
+            "trainer2Id": 3,
+            "winnerId": 2
+        },
+        {
+            "id": 3,
+            "trainer1Id": 1,
+            "trainer2Id": 3,
+            "winnerId": 3
+        },
+        {
+            "id": 4,
+            "trainer1Id": 2,
+            "trainer2Id": 1,
+            "winnerId": 2
+        },
+        {
+            "id": 5,
+            "trainer1Id": 3,
+            "trainer2Id": 2,
+            "winnerId": 3
+        }
+    ]
+}
