@@ -3,7 +3,7 @@
 ## Objetivo de la presentación
 Explorar cómo crear APIs falsas con JSON Server usando un ejemplo de Pokémon. Aprender a realizar filtrados utilizando el método get.
 
-Presentación canva: https://www.canva.com/design/DAGOMK6THwk/u58-R5NBjX7MpNGyLRV8hQ/edit
+Presentación canva: https://www.canva.com/design/DAGOMK6THwk/j0gY7OrRlr98_zojpB3H4g/view?utm_content=DAGOMK6THwk&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ## Requisitos previos
 
